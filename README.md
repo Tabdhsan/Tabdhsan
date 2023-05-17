@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tabdhsan
 - 👀 I’m interested in ... automation
-- 🌱 I’m currently learning ... React
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Prompt Engineering
+- 💞️ I’m looking to collaborate on ... AI Projects
 - 📫 How to reach me ... tabdhsan11@gmail.com
 
 <!---
